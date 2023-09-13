@@ -1,0 +1,58 @@
+.navbar {
+    border-radius: 600px;
+    background: #F85559;
+}
+
+input {
+    display: flex;
+    justify-content: end;
+}
+
+.logo  {
+    display: flex;
+    align-items: center;
+   
+
+}
+
+.btn {
+    border-radius: 8px;
+    background: #F85559;
+}
+.digit{
+    display: flex;
+    justify-content: end;
+    
+}
+.digit-detail{
+    color:#121212;
+}
+.text-des{
+    color: #12121299;
+}
+.footer{
+    background: #121212;
+}
+
+.logo-text {
+ color: #FFFFFF;
+}
+.grid{
+    color: #FFFFFF;
+}
+
+
+/* resposive */
+@media screen and (max-width:576px) {
+    .flex-1{
+       flex-direction: column;
+    }
+    
+}
+@media screen and  (max-width:576px){
+.hero{
+    flex-direction: column;
+}
+}
+    
+
