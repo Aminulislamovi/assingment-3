@@ -53,6 +53,19 @@ input {
 .hero{
     flex-direction: column;
 }
+.text-detail{
+    flex-direction: column;
+
+}
+.digit{
+    flex-direction: column;
+}
+.card-section{
+    flex-direction: column;
+}
+.team-member{
+    flex-direction: column;
+}
 }
     
 
